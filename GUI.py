@@ -24,6 +24,7 @@ def colorChange(i=5):
         window.geometry("300x300")
         print("BOOM!")
         window.destroy()
+        
 # -------------------------------
 
 colorChange()
