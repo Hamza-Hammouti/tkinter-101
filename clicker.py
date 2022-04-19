@@ -6,7 +6,7 @@ window.title("Clicker")
 window.geometry("250x180")
 window.configure(bg="grey")
 
-number = int(0)
+number = 0
 
 def up():
     global number
